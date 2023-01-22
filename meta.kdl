@@ -1,0 +1,16 @@
+title  "homepage-2023"
+description  "Homepage ’23"
+media-type  "webview"
+tags  "code"  "web"  "self"
+license  "AGPL"
+homepage  "https://dym.sh/homepage-2023"
+
+live {
+  during-2023  "https://dym.sh"
+  after-2023  "https://dym.sh/homepage-2023/live"
+}
+
+mirrors {
+  github  "https://github.com/dym-sh/homepage-2023"
+  source  "https://source.garden/homepage-2023"
+}
